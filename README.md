@@ -69,8 +69,4 @@ After completing this project, you will understand:
 - Error Handling
 - Python Programming Basics
 
----
 
-ect
-
-Give this repository a ⭐ on GitHub.
