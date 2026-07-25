@@ -1,0 +1,170 @@
+========================================
+STUDENT GRADE CALCULATOR - TEST CASES
+========================================
+
+Test Case 1: Grade A
+---------------------
+Input:
+Student Name: Priya
+Marks: 95
+
+Expected Output:
+Grade: A
+Message: Excellent! Outstanding Performance!
+
+========================================
+
+Test Case 2: Grade B
+---------------------
+Input:
+Student Name: Rahul
+Marks: 85
+
+Expected Output:
+Grade: B
+Message: Very Good! Keep it up!
+
+========================================
+
+Test Case 3: Grade C
+---------------------
+Input:
+Student Name: Sneha
+Marks: 75
+
+Expected Output:
+Grade: C
+Message: Good Job! You can do even better!
+
+========================================
+
+Test Case 4: Grade D
+---------------------
+Input:
+Student Name: Aman
+Marks: 65
+
+Expected Output:
+Grade: D
+Message: Keep Practicing! Success is near!
+
+========================================
+
+Test Case 5: Grade F
+---------------------
+Input:
+Student Name: Kiran
+Marks: 45
+
+Expected Output:
+Grade: F
+Message: Don't Give Up! Work Hard and Try Again!
+
+========================================
+
+Test Case 6: Invalid Marks (Greater than 100)
+---------------------------------------------
+Input:
+Student Name: Riya
+Marks: 110
+
+Expected Output:
+Marks must be between 0 and 100.
+Prompt user to enter marks again.
+
+========================================
+
+Test Case 7: Invalid Marks (Negative)
+-------------------------------------
+Input:
+Student Name: Arjun
+Marks: -10
+
+Expected Output:
+Marks must be between 0 and 100.
+Prompt user to enter marks again.
+
+========================================
+
+Test Case 8: Invalid Input (Alphabet)
+-------------------------------------
+Input:
+Student Name: Neha
+Marks: abc
+
+Expected Output:
+Please enter valid numeric marks.
+Prompt user to enter marks again.
+
+========================================
+
+Test Case 9: Boundary Value (0)
+-------------------------------
+Input:
+Student Name: Ali
+Marks: 0
+
+Expected Output:
+Grade: F
+Message: Don't Give Up! Work Hard and Try Again!
+
+========================================
+
+Test Case 10: Boundary Value (100)
+----------------------------------
+Input:
+Student Name: Mehek
+Marks: 100
+
+Expected Output:
+Grade: A
+Message: Excellent! Outstanding Performance!
+
+========================================
+
+Test Case 11: Boundary Value (90)
+---------------------------------
+Input:
+Student Name: Sara
+Marks: 90
+
+Expected Output:
+Grade: A
+
+========================================
+
+Test Case 12: Boundary Value (80)
+---------------------------------
+Input:
+Student Name: John
+Marks: 80
+
+Expected Output:
+Grade: B
+
+========================================
+
+Test Case 13: Boundary Value (70)
+---------------------------------
+Input:
+Student Name: David
+Marks: 70
+
+Expected Output:
+Grade: C
+
+========================================
+
+Test Case 14: Boundary Value (60)
+---------------------------------
+Input:
+Student Name: Anjali
+Marks: 60
+
+Expected Output:
+Grade: D
+
+========================================
+
+Result:
+All test cases should execute successfully without errors.
